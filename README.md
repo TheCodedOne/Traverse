@@ -1,2 +1,1 @@
-# Traverse
-Adds some cool biomes and stuff
+# GO TO https://github.com/TraverseTeam/Traverse
